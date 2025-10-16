@@ -8,10 +8,7 @@
 🎓 Estudio **Ingeniería en Sistemas de Información** (3er año)  
 💡 Me apasiona el **desarrollo web**, el **diseño limpio** y la **optimización de procesos**  
 🧠 Enfocado en construir sistemas **robustos, escalables y fáciles de usar**  
-🔍 Actualmente trabajando en:
-- **AutoSys – Plataforma de Gestión para Talleres Mecánicos** con **ASP.NET Core MVC + EF Core**
-- **Sistema de Reportes con Django 5.2** (PDF/Excel, autenticación y panel admin)
-- **Automatización de estadísticas de League of Legends** usando **Python + Pandas + XlsxWriter**
+🔍 Actualmente trabajando en algunos proyectos
 
 ---
 
@@ -88,21 +85,6 @@
 
 ---
 
-### 🧩 Conceptos y prácticas
-- Patrón **MVC**
-- Patrón **Singleton**
-- Arquitectura **Repository Pattern**
-- **ORMs:** Entity Framework Core & Django ORM  
-- **Automatización de reportes** (Excel / PDF)
-- **Diseño UI moderno** tipo Dashboard
-
----
-
-### 🌟 Proyectos destacados
-🔧 [AutoSys – Plataforma de Gestión para Talleres Mecánicos](#)  
-📊 [Sistema de Reportes en Django (Ventas y Stock)](#)  
-📘 [Script de Seguimiento de Partidas de League of Legends](#)
-
 > *“La simplicidad en el diseño no significa menos funcionalidad, sino más claridad.”*
 
 ---
@@ -111,7 +93,7 @@
 
 <p align="center">
   <a href="mailto:juanchruzbocadi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/juancruzbocadi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/juan-cruz-bocadi-384695243/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/JuanBocadi"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
