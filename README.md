@@ -1,20 +1,20 @@
-<!-- Encabezado animado -->
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#0078D7;">Juan Cruz Bocadi</span></h1>
-<h3 align="center">💻 Desarrollador Full Stack | Estudiante de Ingeniería en Sistemas</h3>
+<!-- Animated Header -->
+<h1 align="center">👋 Hi there! I'm <span style="color:#0078D7;">Juan Cruz Bocadi</span></h1>
+<h3 align="center">💻 Full Stack Developer | Computer Systems Engineering Student</h3>
 
 ---
 
-### 🚀 Sobre mí
-🎓 Estudio **Ingeniería en Sistemas de Información** (3er año)  
-💡 Me apasiona el **desarrollo web**, el **diseño limpio** y la **optimización de procesos**  
-🧠 Enfocado en construir sistemas **robustos, escalables y fáciles de usar**  
-🔍 Actualmente trabajando en algunos proyectos
+### 🚀 About Me
+🎓 I’m studying **Computer Systems Engineering** (3rd year)  
+💡 Passionate about **web development**, **clean design**, and **process optimization**  
+🧠 Focused on building **robust, scalable, and user-friendly systems**  
+🔍 Currently working on a few small projects and always exploring new technologies  
 
 ---
 
-### 🧰 Tecnologías y herramientas
+### 🧰 Technologies & Tools
 
-#### 💠 Lenguajes y frameworks
+#### 💠 Languages & Frameworks
 <p align="center">
   <table>
     <tr>
@@ -43,7 +43,7 @@
   </table>
 </p>
 
-#### 🗄️ Bases de datos
+#### 🗄️ Databases
 <p align="center">
   <table>
     <tr>
@@ -57,7 +57,7 @@
   </table>
 </p>
 
-#### ⚙️ Herramientas y otros
+#### ⚙️ Tools & Others
 <p align="center">
   <table>
     <tr>
@@ -85,18 +85,19 @@
 
 ---
 
-> *“La simplicidad en el diseño no significa menos funcionalidad, sino más claridad.”*
+> *“Simplicity in design doesn’t mean less functionality, but more clarity.”*
 
 ---
 
-### 🌐 Contacto
+### 🌐 Contact
+
+📧 **Email:** `juanchruzbocadi@gmail.com`
 
 <p align="center">
-  <a href="mailto:juanchruzbocadi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/juan-cruz-bocadi-384695243/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/JuanBocadi"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-⭐ *Si te interesa ver más de mis proyectos, explorá mis repositorios y seguime para ver mis próximos desarrollos.*
+⭐ *Check out my repositories to see more of my projects and upcoming work.*
