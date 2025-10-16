@@ -1,56 +1,14 @@
-# 👋 ¡Hola! Soy JuanBocadi
+<h1 align="center">Hola 👋, soy Juan Cruz Bocadi</h1>
+<h3 align="center">Estudiante de ingeniería de sistemas de Argentina</h3>
 
-🎓 Estudiante de **Ingeniería en Sistemas de Información** (3er año)  
-💻 Apasionado por el **desarrollo web**, la **arquitectura de software** y los **patrones de diseño**  
-🚀 Actualmente desarrollando proyectos en **ASP.NET Core MVC** con **Entity Framework** y **Django 5.2**  
-📈 Me interesa crear aplicaciones con **interfaz moderna**, **funcionalidad sólida** y **buen rendimiento**
+- 🌱 Actualmente estoy aprendiendo **ingeniería de sistemas en la Universidad UAI**
 
----
+- 📫 Cómo contactarme **juanchruzbocadi@gmail.com**
 
-### ⚙️ Tecnologías que uso
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/juan cruz bocadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan cruz bocadi" height="30" width="40" /></a>
+</p>
 
-#### 💠 Backend
-- C# (.NET Core / ASP.NET MVC)
-- Python (Django)
-- SQL Server / MySQL
-
-#### 🎨 Frontend
-- HTML5, CSS3, JavaScript
-- Bootstrap / TailwindCSS / Admin Lite
-
-#### 🧩 Otros
-- Entity Framework Core
-- Pandas / XlsxWriter (automatización y reportes)
-- Git / GitHub
-- Patrón Singleton, MVC, Repository Pattern
-
----
-
-### 🧠 En qué estoy trabajando
-
-- **AutoSys – Plataforma de Gestión para Talleres Mecánicos**  
-  Sistema web con ASP.NET Core MVC y Entity Framework Core, que permite registrar clientes, vehículos, diagnósticos, estados de reparación y notificaciones automáticas.
-
-- **Sistema de Reportes con Django**  
-  Aplicación para generar y descargar reportes de ventas y stock (PDF y Excel), con autenticación y panel de administración.
-
-- **Script de Seguimiento de Partidas de League of Legends**  
-  Automatiza el registro de estadísticas en Excel con colores dinámicos según el rango, usando Pandas y XlsxWriter.
-
----
-
-### 🌱 Actualmente aprendiendo
-- Patrones de diseño avanzados (Factory, Dependency Injection)
-- Optimización de consultas en Entity Framework y Django ORM
-- Integración de notificaciones con WhatsApp API y Email
-
----
-
-### 📫 Cómo contactarme
-📧 [juanchruzbocadi@gmail.com]  
-💼 [Juan Cruz Bocadi]  
-
----
-
-> “La simplicidad en el diseño no significa menos funcionalidad, sino más claridad.”
-
+<h3 align="left">Idiomas y herramientas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" ancho="40" alto="40"/> </a> <a href="https://www.figma.com/" objetivo="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" ancho="40" alto="40"/> </a> <a href="https://git-scm.com/" objetivo="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" ancho="40" alto="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
