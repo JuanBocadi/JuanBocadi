@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy JuanBocadi
 
 🎓 Estudiante de **Ingeniería en Sistemas de Información** (3er año)  
 💻 Apasionado por el **desarrollo web**, la **arquitectura de software** y los **patrones de diseño**  
@@ -47,9 +47,8 @@
 ---
 
 ### 📫 Cómo contactarme
-📧 [Tu email]  
-💼 [Tu LinkedIn o portfolio si tenés]  
-🐙 [Tu GitHub](https://github.com/TU_USUARIO)
+📧 [juanchruzbocadi@gmail.com]  
+💼 [Juan Cruz Bocadi]  
 
 ---
 
