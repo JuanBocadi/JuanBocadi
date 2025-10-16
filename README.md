@@ -1,14 +1,14 @@
-<!-- Animated Header -->
-<h1 align="center">👋 Hi there! I'm <span style="color:#0078D7;">Juan Cruz Bocadi</span></h1>
-<h3 align="center">💻 Full Stack Developer | Computer Systems Engineering Student</h3>
+<!-- Animated header -->
+<h1 align="center">👋 Hey there! I'm <span style="color:#0078D7;">Juan Cruz Bocadi</span></h1>
+<h3 align="center">💻 Full Stack Developer | Information Systems Engineering Student</h3>
 
 ---
 
 ### 🚀 About Me
-🎓 I’m studying **Computer Systems Engineering** (3rd year)  
+🎓 I'm currently pursuing a **Bachelor’s degree in Information Systems Engineering** (3rd year)  
 💡 Passionate about **web development**, **clean design**, and **process optimization**  
 🧠 Focused on building **robust, scalable, and user-friendly systems**  
-🔍 Currently working on a few small projects and always exploring new technologies  
+🔍 Currently working on a few exciting projects
 
 ---
 
@@ -85,19 +85,18 @@
 
 ---
 
-> *“Simplicity in design doesn’t mean less functionality, but more clarity.”*
+> *“Simplicity in design doesn’t mean less functionality, it means more clarity.”*
 
 ---
 
 ### 🌐 Contact
 
-📧 **Email:** `juanchruzbocadi@gmail.com`
-
 <p align="center">
+  <a href="mailto:juanchruzbocadi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/juan-cruz-bocadi-384695243/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/JuanBocadi"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-⭐ *Check out my repositories to see more of my projects and upcoming work.*
+⭐ *If you’d like to see more of my work, feel free to explore my repositories and follow me to stay tuned for upcoming projects.*
