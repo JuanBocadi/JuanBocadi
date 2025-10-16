@@ -5,10 +5,15 @@
 ---
 
 ### 🚀 Sobre mí
-🎓 Estudio **Ingeniería en Sistemas de Información** (3er año)  
-💡 Me apasiona el **desarrollo web**, el **diseño limpio** y la **optimización de procesos**  
-🧠 Enfocado en construir sistemas **robustos, escalables y fáciles de usar**  
-🔍 Actualmente trabajando en algunos proyectos pequeños
+🎓 Estudiante de **Ingeniería en Sistemas de Información** (3er año)  
+💡 Apasionado por el **desarrollo web**, el **diseño limpio** y la **optimización de procesos**  
+🧠 Enfocado en crear software **eficiente, escalable y con impacto real**  
+🌱 Siempre aprendiendo nuevas tecnologías y mejores prácticas  
+
+🧩 Actualmente amplío mis conocimientos en:
+- **Nest.js** y **Angular**  
+- **Patrones de diseño avanzados (Factory, Singleton, Repository)**  
+- **Optimización de consultas en Entity Framework y Django ORM**
 
 ---
 
@@ -90,11 +95,17 @@
 ### 🌐 Contacto
 
 <p align="center">
-  <a href="mailto:juanchruzbocadi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/juan-cruz-bocadi-384695243/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/JuanBocadi"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:juanchruzbocadi@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/juan-cruz-bocadi-384695243/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/JuanBocadi">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
 
-⭐ *Si te interesa ver más de mis proyectos, explorá mis repositorios y seguime para ver mis próximos desarrollos.*
+⭐ *Explorá mis repositorios para conocer mis proyectos y próximos desarrollos.*
