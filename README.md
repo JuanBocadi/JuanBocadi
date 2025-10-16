@@ -1,6 +1,6 @@
 <!-- Animated header -->
 <h1 align="center">👋 Hey there! I'm <span style="color:#0078D7;">Juan Cruz Bocadi</span></h1>
-<h3 align="center">💻 Full Stack Developer | Information Systems Engineering Student</h3>
+<h3 align="center">💻 Full Stack Developer | Engineering Student passionate about building meaningful software</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 🎓 I'm currently pursuing a **Bachelor’s degree in Information Systems Engineering** (3rd year)  
 💡 Passionate about **development**, **clean design**, and **process optimization**  
 🧠 Focused on building **robust, scalable, and user-friendly systems**  
-🔍 Currently working on a few exciting projects
+🔍 Currently developing a **vehicle management system** and a **business dashboard**
 
 ---
 
@@ -85,6 +85,20 @@
 
 ---
 
+### 🧩 Current Projects
+- 🚗 **AutoSys** – Vehicle intake and diagnostics management system built with ASP.NET Core MVC and SQL Server.
+- 📊 **Dashboard App** – Data visualization project for decision-making using Python and Power BI.
+- 🌐 **Freelance Web Development** – Custom websites and business automation for local clients.
+
+---
+
+### 💼 Experience
+- 👥 Collaborating on academic and freelance software projects.
+- 🧰 Focused on developing complete, scalable, and user-centered applications.
+- 🚀 Constantly learning and improving clean, maintainable code practices.
+
+---
+
 > *“Simplicity in design doesn’t mean less functionality, it means more clarity.”*
 
 ---
@@ -99,4 +113,11 @@
 
 ---
 
-⭐ *If you’d like to see more of my work, feel free to explore my repositories and follow me to stay tuned for upcoming projects.*
+✨ *I enjoy solving real-world problems through code and design. Always open to new collaborations and learning opportunities.*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanBocadi&show_icons=true&theme=blue_navy" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanBocadi&layout=compact&theme=blue_navy" alt="Top Languages" />
+</p>
