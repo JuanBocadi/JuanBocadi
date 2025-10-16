@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 🎓 I'm currently pursuing a **Bachelor’s degree in Information Systems Engineering** (3rd year)  
-💡 Passionate about **web development**, **clean design**, and **process optimization**  
+💡 Passionate about **development**, **clean design**, and **process optimization**  
 🧠 Focused on building **robust, scalable, and user-friendly systems**  
 🔍 Currently working on a few exciting projects
 
