@@ -86,16 +86,16 @@
 ---
 
 ### 🧩 Current Projects
-- 🚗 **AutoSys** – Vehicle intake and diagnostics management system built with ASP.NET Core MVC and SQL Server.
-- 📊 **Dashboard App** – Data visualization project for decision-making using Python and Power BI.
-- 🌐 **Freelance Web Development** – Custom websites and business automation for local clients.
+- 🚗 **AutoSys** – Vehicle intake and diagnostics management system built with ASP.NET Core MVC and SQL Server.  
+- 📊 **Dashboard App** – Data visualization project for decision-making using Python and Power BI.  
+- ⚙️ **Custom Software Development** – Building tailored systems and automation solutions for businesses.
 
 ---
 
 ### 💼 Experience
-- 👥 Collaborating on academic and freelance software projects.
-- 🧰 Focused on developing complete, scalable, and user-centered applications.
-- 🚀 Constantly learning and improving clean, maintainable code practices.
+- 👥 Collaborating on academic and freelance software projects.  
+- 🧰 Focused on developing complete, scalable, and user-centered applications.  
+- 🚀 Constantly learning and improving clean, maintainable code practices.  
 
 ---
 
