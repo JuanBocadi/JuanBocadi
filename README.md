@@ -8,10 +8,7 @@
 🎓 Estudio **Ingeniería en Sistemas de Información** (3er año)  
 💡 Me apasiona el **desarrollo web**, el **diseño limpio** y la **optimización de procesos**  
 🧠 Enfocado en construir sistemas **robustos, escalables y fáciles de usar**  
-🔍 Actualmente trabajando en:
-- **AutoSys – Plataforma de Gestión para Talleres Mecánicos** con **ASP.NET Core MVC + EF Core**
-- **Sistema de Reportes con Django 5.2** (PDF/Excel, autenticación y panel admin)
-- **Automatización de estadísticas de League of Legends** usando **Python + Pandas + XlsxWriter**
+🔍 Actualmente trabajando en algunos proyectos pequeños
 
 ---
 
@@ -85,23 +82,6 @@
     </tr>
   </table>
 </p>
-
----
-
-### 🧩 Conceptos y prácticas
-- Patrón **MVC**
-- Patrón **Singleton**
-- Arquitectura **Repository Pattern**
-- **ORMs:** Entity Framework Core & Django ORM  
-- **Automatización de reportes** (Excel / PDF)
-- **Diseño UI moderno** tipo Dashboard
-
----
-
-### 🌟 Proyectos destacados
-🔧 [AutoSys – Plataforma de Gestión para Talleres Mecánicos](#)  
-📊 [Sistema de Reportes en Django (Ventas y Stock)](#)  
-📘 [Script de Seguimiento de Partidas de League of Legends](#)
 
 > *“La simplicidad en el diseño no significa menos funcionalidad, sino más claridad.”*
 
