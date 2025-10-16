@@ -94,10 +94,12 @@
 
 ### 🌐 Contacto
 
+**Email (copiar/pegar):** `juanchruzbocadi@gmail.com`  
+
+- (Puedes copiar el correo de arriba y pegarlo en tu cliente de correo.)  
+- Si preferís hacer clic para abrir el cliente de correo, aquí está el enlace directo: <mailto:juanchruzbocadi@gmail.com>
+
 <p align="center">
-  <a href="mailto:juanchruzbocadi@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
   <a href="https://www.linkedin.com/in/juan-cruz-bocadi-384695243/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
